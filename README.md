@@ -1,4 +1,4 @@
-# AI Learning Hub · AI 学习资源与 Roadmap
+# AI Learning Hub for Intro Level
 
 面向中文读者的 AI 学习合集：从 Python 与模型基础，到 Agent 应用开发、机器学习、深度学习和强化学习研究。保留资源原文标题，用中文说明为什么学、先读什么、可以做什么。
 
