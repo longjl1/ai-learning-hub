@@ -79,5 +79,3 @@ scripts/check_catalog.py
 ```sh
 python3 scripts/check_catalog.py
 ```
-
-首版已在本地整理，尚未发布到远端 GitHub 仓库。仓库名称与发布地址确定后，可直接提交这些文件；后续如需搜索或更复杂导航，再考虑基于同一份 Markdown 生成文档网站。
