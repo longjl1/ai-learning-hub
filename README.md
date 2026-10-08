@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/roadmap-icon-dark.svg">
+    <img src="assets/roadmap-icon.svg" width="128" height="128" alt="AI 学习 Roadmap：从不同起点汇入清晰主线，直达黄色 Master 星标，少走弯路">
+  </picture>
+</p>
+
 # AI Learning Hub for Intro Level
 
 面向中文读者的 AI 学习合集：从 Python 与模型基础，到 Agent 应用开发、机器学习、深度学习和强化学习研究。保留资源原文标题，用中文说明为什么学、先读什么、可以做什么。

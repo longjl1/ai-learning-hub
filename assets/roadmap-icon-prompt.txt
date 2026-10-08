@@ -1,0 +1,10 @@
+Generation mode: built-in image_gen tool, not CLI.
+Deliverable: editable SVG reconstructed from the generated reference.
+
+Use case: logo-brand.
+Asset: an icon for an AI learning roadmap GitHub repository, expressed as beginner-to-master without unnecessary detours.
+Input image 1: previous generated winding-road icon; use only its bold simple visual language and the start-circle / mastery-star motif.
+Requested redesign: replace the winding S-shaped road with one clean, straight vertical central route from a solid starting circle at the bottom to a warm golden-yellow five-point mastery star at the top. Two intermediate solid circular milestones sit on the straight line and grow gently in size toward the top. Add only two short muted-gray side routes, one from each side, smoothly joining the central straight route at different milestones; they represent different starting backgrounds converging on a clear roadmap. Side routes must be subordinate and simple, no loops or long detours. Keep the main route visibly continuous and straight, the yellow star the focal point.
+Style: compact square, bold rounded flat vector-style geometry, clear at 48 px, deliberate negative space, crisp edges.
+Palette: black/charcoal main route and nodes, gray side routes, golden yellow star. Genuine transparent background. No words, labels, arrows, background cards, shadows, gradients, 3D, brain/circuit imagery, or watermark.
+Output one polished isolated mark; this reference will be reconstructed as a real editable SVG.

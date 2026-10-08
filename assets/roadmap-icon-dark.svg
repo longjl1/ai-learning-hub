@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">AI Learning Roadmap — Beginner to Master</title>
+  <desc id="desc">Different starting paths converge on a straight learning roadmap. A small beginning grows through milestones toward a golden mastery star, without unnecessary detours.</desc>
+  <g fill="none" stroke="#8b949e" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 374 H144 C183 374 187 330 222 330 H256"/>
+    <path d="M432 264 H368 C332 264 324 220 290 220 H256"/>
+  </g>
+  <g fill="#8b949e">
+    <circle cx="80" cy="374" r="15"/>
+    <circle cx="432" cy="264" r="15"/>
+  </g>
+  <path d="M256 446 V132" fill="none" stroke="#f0f6fc" stroke-width="20" stroke-linecap="round"/>
+  <g fill="#f0f6fc">
+    <circle cx="256" cy="446" r="19"/>
+    <circle cx="256" cy="330" r="24"/>
+    <circle cx="256" cy="220" r="29"/>
+  </g>
+  <path d="M256 34 Q259 30 262 37 L279 78 Q280 81 284 81 L330 85 Q339 86 332 92 L296 121 Q293 124 294 128 L305 173 Q307 182 299 177 L260 152 Q256 150 252 152 L213 177 Q205 182 207 173 L218 128 Q219 124 216 121 L180 92 Q173 86 182 85 L228 81 Q232 81 233 78 L250 37 Q253 30 256 34Z" fill="#f5b800"/>
+</svg>
